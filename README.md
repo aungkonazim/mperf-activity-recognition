@@ -7,4 +7,9 @@ mperf data is stored in Spark 3 Dataframes and the activity model is trained in 
 3. Window the data and detect the activity
 4. Smooth the predictions
 
+# mperf-person-reidentification
+Identifies participant from their wrist sensor IMU data. 
 
+1. Train Base Model in shorter sequences
+2. Ensemble the Predictions in longer sequences
+3. Show the RE-ID accuracy of wearable sensor data belonging to different activity events
