@@ -3,3 +3,4 @@
 *.json
 /models
 /results
+*.zip
