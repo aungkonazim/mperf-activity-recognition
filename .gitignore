@@ -1,6 +1,6 @@
 /data
 *.ipynb_checkpoints
 *.json
-/models
+/models/
 /results
 *.zip
