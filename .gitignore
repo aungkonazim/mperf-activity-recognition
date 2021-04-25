@@ -5,4 +5,5 @@
 /results
 *.zip
 /predictions/
+*.csv
 
