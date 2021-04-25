@@ -6,4 +6,4 @@
 *.zip
 /predictions/
 *.csv
-
+/final_results/
